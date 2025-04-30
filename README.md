@@ -50,10 +50,23 @@ This assignment will help you practice:
 
 ### Part 1: Update this README.md
 Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
+
+- A brief introduction about yourself (first name only): 
+
+My name is Rayan! I'm a first-year Health Data Science M.S. student at UCSF. 
+
+- What you're hoping to get out of this course: 
+
+I'm hoping to improve my python and coding skills!
+
+- Topics you would like to see included: 
+
+I'd love to get some example problems / scenarios of how to apply all the python skills we learned in class to situations we can encounter in the real-world. 
+
 - A musical recommendation and a link to something about it (song, album, artist)
+
+I've been listening to: ["We Are the World" (2009 version)](https://youtu.be/Glny4jSciVI?si=bKdPMOIbLIfQMfrj) which is a 2009 celebrity remake for the original 1985 charity song. More info [here](https://en.wikipedia.org/wiki/We_Are_the_World_25_for_Haiti). 
+
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
